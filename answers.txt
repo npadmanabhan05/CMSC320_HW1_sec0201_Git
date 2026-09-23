@@ -10,3 +10,7 @@ Answer: Data science could be applied to politics. For example, we can use data 
 Q3: What is the difference between Merging and Rebasing?
 
 Answer: Rebasing puts your changes on top of the existing changes where as merge attempts ot bring them together.
+
+Q4: What are you looking forward to this semester?
+
+Answer: Learning how to interpret different types of data and gain an understanding of machine learning.
