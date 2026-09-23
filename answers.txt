@@ -5,3 +5,8 @@ Answer: It helps us track changes remotely
 Q2: What field could data science be applied to? Give an Example.
 
 Answer: Data science could be applied to politics. For example, we can use data science to analyze past election trends.
+
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Rebasing puts your changes on top of the existing changes where as merge attempts ot bring them together.
